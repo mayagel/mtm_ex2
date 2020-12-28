@@ -1,4 +1,4 @@
-#### IMPORTS ####
+
 import event_manager as EM
 
 def checkId(id_member):
